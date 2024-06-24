@@ -1,8 +1,8 @@
 {
-"url": "https://exuberant-ice.surge.sh/test.yaml",
+"url": "https://raw.githubusercontent.com/ToradaGamil/Swagger-xss/main/test.yaml",
 "urls": [
 {
-"url": "https://exuberant-ice.surge.sh/test.yaml",
+"url": "https://raw.githubusercontent.com/ToradaGamil/Swagger-xss/main/test.yaml",
 "name": "Foo"
 }
 ]
