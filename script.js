@@ -1,1 +1,1 @@
-alert(window.origin);
+alert('Pwn&Patch Trigger Xss');
